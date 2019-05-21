@@ -12,3 +12,7 @@ fieldset {
   width: 65px;
   height: 15px;
 }
+
+p {
+  display: inline;
+}
